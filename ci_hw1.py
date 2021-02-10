@@ -20,17 +20,6 @@ def load_csv():
     return x, y
 
 
-# load Data from google DRIVE
-# cols = ['New_deaths']
-# df = pd.read_csv('/content/drive/My Drive/Colab Notebooks/Computational Intellignece /WHO-COVID-19-Iran-data.csv')
-# new_infections = df[df.columns[4]].to_numpy()
-# t = list(range(len(new_infections)))
-
-# x = t
-# y = new_infections
-
-# Split Data into training set
-# x_train, y_train, x_validation, y_validation = test_validation_split(x, y)
 
 
 def main():
