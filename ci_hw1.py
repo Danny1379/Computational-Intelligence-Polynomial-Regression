@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""CI_HW1.ipynb
+
 
 
 # AT The bottom you will find the polynomial Gradient Decent that tests different polynomial degrees
